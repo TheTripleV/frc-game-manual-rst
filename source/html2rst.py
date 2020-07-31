@@ -363,7 +363,15 @@ class Visitor:
                         #     self.docs //= 2
                         return
 
-                if "SafetyRule" in node.attrs["class"]:
+                if (
+                    "SafetyRule" in node.attrs["class"] 
+                    or "ConductRule" in node.attrs["class"] 
+                    or "GameRule" in node.attrs["class"] 
+                    or "HumanRules" in node.attrs["class"] 
+                    or "RobotRule" in node.attrs["class"] 
+                    or "InspectionRule" in node.attrs["class"]
+                    or "TournyRule" in node.attrs["class"]
+                ):
 
                     for tag in node.find_all("b"):
                         tag.unwrap()
