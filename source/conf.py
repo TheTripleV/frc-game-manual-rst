@@ -28,11 +28,11 @@ author = 'FIRST'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx_rtd_theme"
-    "sphinxext.opengraph"
+    "sphinx_rtd_theme",
+    "sphinxext.opengraph",
 ]
 
-ogp_site_url = ""
+ogp_site_url = "https://frc-game-manual-rst.readthedocs.io/en/latest/"
 ogp_description_length = 200
 ogp_site_name = "UNOFFICIAL FRC Game Manual (as a website!)"
 
