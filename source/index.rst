@@ -10,6 +10,8 @@ Welcome to the UNOFFICIAL FRC Game Manual! (as a website!)
 
 This is equivalent to the PDF version of the Game Manual.
 
+Contribute on `Github! <https://github.com/TheTripleV/frc-game-manual-rst>`_
+
 .. toctree::
    :maxdepth: 2
    :caption: Sections
@@ -26,11 +28,3 @@ This is equivalent to the PDF version of the Game Manual.
    gen/section_10
    gen/section_11
    gen/section_12
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
