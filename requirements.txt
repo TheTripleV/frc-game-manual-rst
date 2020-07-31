@@ -3,3 +3,4 @@ lxml
 sphinx
 sphinx-rtd-theme
 sphinxext-opengraph
+dashtable
