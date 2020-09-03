@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-UNOFFICIAL FRC Game Manual
+UNOFFICIAL FRC Game Manual (2020)
 ==========================
 
 Welcome to the UNOFFICIAL FRC Game Manual! (as a website!)
 
-This is equivalent to the PDF version of the Game Manual.
+This is equivalent to the PDF version of the 2020 Game Manual.
 
 Contribute on `Github! <https://github.com/TheTripleV/frc-game-manual-rst>`_
 
