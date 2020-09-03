@@ -1,6 +1,7 @@
 # frc-game-manual-rst
 
-Render the FRC Game Manual as Sphinx Documentation
+Render the FRC Game Manual as Sphinx Documentation.
+Online version available at: https://frc-game-manual-rst.readthedocs.io/en/latest/
 
 ## Usage
 1. Place html version of the FRC Game Manual in `source/game_manual`
